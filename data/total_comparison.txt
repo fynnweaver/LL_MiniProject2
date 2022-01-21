@@ -1,0 +1,11 @@
+category,f_total,y_total
+Dining and Drinking,41,30
+Retail,37,33
+Business and Professional Services,35,32
+Community and Government,31,1
+Travel and Transportation,19,10
+Health and Medicine,18,29
+Arts and Entertainment,12,20
+Sports and Recreation,10,37
+Landmarks and Outdoors,6,NULL
+Event,3,NULL

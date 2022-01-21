@@ -1,0 +1,213 @@
+,Category,id,title,total
+78,Dining and Drinking,13065,Restaurant,14
+122,Health and Medicine,15019,Mental Health Clinic,10
+47,Community and Government,12082,Organization,6
+79,Dining and Drinking,13068,American Restaurant,6
+48,Community and Government,12101,Church,5
+80,Dining and Drinking,13031,Burger Joint,5
+81,Dining and Drinking,13002,Bakery,5
+123,Health and Medicine,15006,Chiropractor,5
+12,Business and Professional Services,11000,Business and Professional Services,5
+13,Business and Professional Services,11149,Real Estate Agency,5
+124,Health and Medicine,15018,Mental Health Service,5
+82,Dining and Drinking,13035,Coffee Shop,4
+146,Retail,17011,Car Parts and Accessories,4
+193,Travel and Transportation,19014,Hotel,4
+83,Dining and Drinking,13016,Lounge,4
+147,Retail,17089,Gift Store,4
+183,Sports and Recreation,18028,Yoga Studio,4
+0,Arts and Entertainment,10000,Arts and Entertainment,4
+15,Business and Professional Services,11086,General Contractor,4
+14,Business and Professional Services,11064,Hair Salon,4
+125,Health and Medicine,15003,Alternative Medicine Clinic,4
+126,Health and Medicine,15014,Hospital,4
+49,Community and Government,12094,Residential Building,4
+85,Dining and Drinking,13046,Ice Cream Parlor,3
+84,Dining and Drinking,13026,BBQ Joint,3
+86,Dining and Drinking,13303,Mexican Restaurant,3
+184,Sports and Recreation,18021,Gym and Studio,3
+185,Sports and Recreation,18025,Dance Studio,3
+186,Sports and Recreation,18036,Martial Arts Dojo,3
+89,Dining and Drinking,13387,Winery,3
+88,Dining and Drinking,13145,Fast Food Restaurant,3
+90,Dining and Drinking,13009,Cocktail Bar,3
+150,Retail,17084,Home Appliance Store,3
+194,Travel and Transportation,19055,Travel Agency,3
+195,Travel and Transportation,19006,Electric Vehicle Charging Station,3
+130,Health and Medicine,15001,Acupuncture Clinic,3
+129,Health and Medicine,15054,Veterinarian,3
+128,Health and Medicine,15016,Medical Center,3
+127,Health and Medicine,15007,Dentist,3
+16,Business and Professional Services,11044,ATM,3
+17,Business and Professional Services,11070,Massage Clinic,3
+140,Landmarks and Outdoors,16026,Monument,3
+141,Landmarks and Outdoors,16032,Park,3
+148,Retail,11010,Automotive Repair Shop,3
+149,Retail,17110,Pet Supplies Store,3
+87,Dining and Drinking,13034,Café,3
+151,Retail,17003,Arts and Crafts Store,3
+152,Retail,17069,Grocery Store / Supermarket,3
+50,Community and Government,12069,Government Department / Agency,3
+158,Retail,17012,Motorcycle Dealership,2
+159,Retail,17002,Antique Store,2
+154,Retail,17033,Department Store,2
+91,Dining and Drinking,13029,Brewery,2
+92,Dining and Drinking,13383,Steakhouse,2
+93,Dining and Drinking,13006,Beer Bar,2
+94,Dining and Drinking,13003,Bar,2
+157,Retail,17098,Music Store,2
+156,Retail,17082,Furniture and Home Store,2
+155,Retail,17076,Liquor Store,2
+132,Health and Medicine,15000,Health and Medicine,2
+153,Retail,17138,Vintage and Thrift Store,2
+1,Arts and Entertainment,10039,Music Venue,2
+119,Event,14013,Street Food Gathering,2
+160,Retail,17119,Bicycle Store,2
+131,Health and Medicine,15031,Doctor's Office,2
+53,Community and Government,12088,Veterans' Organization,2
+57,Community and Government,12009,Education,2
+20,Business and Professional Services,11045,Bank,2
+198,Travel and Transportation,19042,Bus Station,2
+197,Travel and Transportation,19049,Taxi Stand,2
+196,Travel and Transportation,19007,Fuel Station,2
+188,Sports and Recreation,18064,Soccer Field,2
+187,Sports and Recreation,18004,Baseball Field,2
+19,Business and Professional Services,11112,Attorney / Law Office,2
+18,Business and Professional Services,11075,Tattoo Parlor,2
+51,Community and Government,12091,Public and Social Service,2
+52,Community and Government,11172,Tutoring Service,2
+22,Business and Professional Services,11092,Landscaper and Gardener,2
+54,Community and Government,12022,College Classroom,2
+55,Community and Government,12048,Community College,2
+56,Community and Government,12013,College and University,2
+21,Business and Professional Services,11148,Property Management Office,2
+58,Community and Government,12000,Community and Government,2
+205,Travel and Transportation,19025,RV Park,1
+210,Travel and Transportation,19000,Travel and Transportation,1
+209,Travel and Transportation,19008,Hot Air Balloon Tour Agency,1
+208,Travel and Transportation,19016,Lodge,1
+207,Travel and Transportation,19017,Motel,1
+145,Landmarks and Outdoors,16037,Playground,1
+144,Landmarks and Outdoors,16020,Historic and Protected Site,1
+143,Landmarks and Outdoors,16014,Farm,1
+142,Landmarks and Outdoors,16006,Bridge,1
+206,Travel and Transportation,11165,Storage Facility,1
+204,Travel and Transportation,11037,Equipment Rental Service,1
+135,Health and Medicine,15027,Physician,1
+203,Travel and Transportation,19036,Airport Service,1
+139,Health and Medicine,17037,Eyecare Store,1
+138,Health and Medicine,15017,Medical Lab,1
+137,Health and Medicine,15041,Ophthalmologist,1
+136,Health and Medicine,15022,Nursing Home,1
+202,Travel and Transportation,19043,Bus Stop,1
+133,Health and Medicine,15024,Optometrist,1
+134,Health and Medicine,15026,Physical Therapy Clinic,1
+201,Travel and Transportation,19048,Rental Car Location,1
+170,Retail,17056,Flower Store,1
+191,Sports and Recreation,18038,Personal Trainer,1
+200,Travel and Transportation,19054,Public Transportation,1
+199,Travel and Transportation,19029,Tour Provider,1
+168,Retail,17062,Chocolate Store,1
+167,Retail,11009,Automotive Service,1
+166,Retail,17070,Organic Grocery,1
+165,Retail,17071,Health Food Store,1
+164,Retail,17114,Shopping Mall,1
+163,Retail,17101,Garden Center,1
+162,Retail,17095,Medical Supply Store,1
+161,Retail,17090,Hardware Store,1
+172,Retail,17043,Clothing Store,1
+173,Retail,17037,Eyecare Store,1
+174,Retail,17035,Drugstore,1
+175,Retail,17029,Convenience Store,1
+176,Retail,17026,Mobile Phone Store,1
+177,Retail,17018,Bookstore,1
+178,Retail,15024,Optometrist,1
+179,Retail,13002,Bakery,1
+180,Retail,11123,Mobile Company,1
+181,Retail,11013,Oil Change Service,1
+182,Retail,17052,Women's Store,1
+189,Sports and Recreation,18000,Sports and Recreation,1
+190,Sports and Recreation,18037,Paintball Field,1
+171,Retail,17044,Fashion Accessories Store,1
+192,Sports and Recreation,18055,Skate Park,1
+169,Retail,17060,Candy Store,1
+106,Dining and Drinking,13072,Asian Restaurant,1
+121,Event,13352,Thai Restaurant,1
+40,Business and Professional Services,11033,Employment Agency,1
+33,Business and Professional Services,11079,Carpet and Flooring Contractor,1
+34,Business and Professional Services,11001,Advertising Agency,1
+35,Business and Professional Services,11062,Barbershop,1
+36,Business and Professional Services,11059,Funeral Home,1
+37,Business and Professional Services,11054,Loans Agency,1
+38,Business and Professional Services,11051,Credit Union,1
+39,Business and Professional Services,11043,Accounting and Bookkeeping Service,1
+41,Business and Professional Services,11027,Computer Repair Service,1
+31,Business and Professional Services,11170,Telecommunication Service,1
+42,Business and Professional Services,11026,Daycare,1
+43,Business and Professional Services,11025,Child Care Service,1
+44,Business and Professional Services,11009,Automotive Service,1
+45,Business and Professional Services,11003,Architecture Firm,1
+46,Business and Professional Services,12094,Residential Building,1
+59,Community and Government,12059,High School,1
+60,Community and Government,12095,Retirement Home,1
+32,Business and Professional Services,11072,Skin Care Clinic,1
+30,Business and Professional Services,11096,Plumber,1
+62,Community and Government,12078,Housing Authority,1
+9,Arts and Entertainment,10053,Ticket Seller,1
+2,Arts and Entertainment,10003,Arcade,1
+3,Arts and Entertainment,10004,Art Gallery,1
+4,Arts and Entertainment,10028,Art Museum,1
+5,Arts and Entertainment,10030,History Museum,1
+6,Arts and Entertainment,10032,Night Club,1
+7,Arts and Entertainment,10043,Theater,1
+8,Arts and Entertainment,10051,Stadium,1
+10,Arts and Entertainment,13010,Dive Bar,1
+29,Business and Professional Services,11162,Security and Safety,1
+11,Arts and Entertainment,13065,Restaurant,1
+23,Business and Professional Services,11143,Publisher,1
+24,Business and Professional Services,11147,Commercial Real Estate Developer,1
+25,Business and Professional Services,11124,Office,1
+26,Business and Professional Services,11107,Insurance Agency,1
+27,Business and Professional Services,11099,Sewer Contractor,1
+28,Business and Professional Services,11150,Real Estate Appraiser,1
+61,Community and Government,12083,Charity,1
+63,Community and Government,12104,Kingdom Hall,1
+120,Event,13058,Hot Dog Joint,1
+110,Dining and Drinking,13039,Deli,1
+102,Dining and Drinking,14013,Street Food Gathering,1
+103,Dining and Drinking,13148,French Restaurant,1
+104,Dining and Drinking,10032,Night Club,1
+105,Dining and Drinking,13040,Dessert Shop,1
+107,Dining and Drinking,13064,Pizzeria,1
+108,Dining and Drinking,13044,Frozen Yogurt Shop,1
+109,Dining and Drinking,13000,Dining and Drinking,1
+111,Dining and Drinking,13036,Tea Room,1
+100,Dining and Drinking,13302,Mediterranean Restaurant,1
+112,Dining and Drinking,13024,Whisky Bar,1
+113,Dining and Drinking,13022,Sports Bar,1
+114,Dining and Drinking,13018,Pub,1
+115,Dining and Drinking,13012,Hookah Bar,1
+116,Dining and Drinking,13010,Dive Bar,1
+117,Dining and Drinking,13007,Beer Garden,1
+118,Dining and Drinking,17060,Candy Store,1
+101,Dining and Drinking,13236,Italian Restaurant,1
+99,Dining and Drinking,13315,Noodle Restaurant,1
+64,Community and Government,11148,Property Management Office,1
+72,Community and Government,12020,College Bookstore,1
+65,Community and Government,12039,College Technology Building,1
+66,Community and Government,12058,Elementary School,1
+67,Community and Government,12047,Student Center,1
+68,Community and Government,12036,College Science Building,1
+69,Community and Government,12032,College Math Building,1
+70,Community and Government,12030,College Lab,1
+71,Community and Government,12028,College History Building,1
+73,Community and Government,12015,College Administrative Building,1
+98,Dining and Drinking,13379,Vietnamese Restaurant,1
+74,Community and Government,12014,College Academic Building,1
+75,Community and Government,12011,Art School,1
+76,Community and Government,12001,Addiction Treatment Center,1
+77,Community and Government,12115,Utility Company,1
+95,Dining and Drinking,13352,Thai Restaurant,1
+96,Dining and Drinking,13334,Sandwich Restaurant,1
+97,Dining and Drinking,13099,Chinese Restaurant,1
+211,Travel and Transportation,19020,Parking,1

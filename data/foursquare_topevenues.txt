@@ -1,0 +1,11 @@
+title,total
+Thai Restaurant,2
+Street Food Gathering,2
+Restaurant,2
+Residential Building,2
+Property Management Office,2
+Optometrist,2
+Night Club,2
+Eyecare Store,2
+Dive Bar,2
+Candy Store,2
