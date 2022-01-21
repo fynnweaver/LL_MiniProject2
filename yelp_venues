@@ -1,77 +1,112 @@
-,title,total
-0,Breakfast & Brunch,9
-1,Massage Therapy,9
-2,American (New),8
-3,Sandwiches,6
-4,Bars,6
-5,Coffee & Tea,6
-6,Thai,6
-7,Massage,5
-8,Barbeque,4
-9,Wineries,4
-10,Seafood,4
-11,Sushi Bars,4
-12,Reiki,4
-13,Gluten-Free,4
-14,Diners,4
-15,Wine Tasting Room,3
-16,Supernatural Readings,3
-17,Wine Bars,3
-18,Cocktail Bars,3
-19,Cinema,3
-20,Chiropractors,3
-21,Skin Care,3
-22,American (Traditional),3
-23,Japanese,2
-24,Mexican,2
-25,Mediterranean,2
-26,Steakhouses,2
-27,Museums,2
-28,Acupuncture,2
-29,Music Venues,2
-30,Pubs,2
-31,Tapas/Small Plates,2
-32,Juice Bars & Smoothies,2
-33,Food Trucks,2
-34,Italian,2
-35,Desserts,2
-36,Arcades,2
-37,Bakeries,2
-38,Cafes,2
-39,Cannabis Clinics,2
-40,Delis,2
-41,Cannabis Dispensaries,2
-42,Vietnamese,2
-43,French,2
-44,Georgian,2
-45,Reflexology,2
-46,Waxing,1
-47,Weight Loss Centers,1
-48,Tattoo Removal,1
-49,Sports Bars,1
-50,Spiritual Shop,1
-51,Southern,1
-52,Tui Na,1
-53,Wine Tours,1
-54,Acne Treatment,1
-55,Psychic Mediums,1
-56,General Dentistry,1
-57,Bowling,1
-58,Breweries,1
-59,Community Service/Non-Profit,1
-60,Cosmetic Dentists,1
-61,Day Spas,1
-62,Eyebrow Services,1
-63,Eyewear & Opticians,1
-64,Float Spa,1
-65,Ice Cream & Frozen Yogurt,1
-66,Permanent Makeup,1
-67,Laser Hair Removal,1
-68,Lounges,1
-69,Medical Spas,1
-70,Meditation Centers,1
-71,Musical Instruments & Teachers,1
-72,Optometrists,1
-73,Orthodontists,1
-74,Performing Arts,1
-75,Yoga,1
+,Category,title,total
+51,Health,Massage,6
+50,Health,Massage Therapy,6
+79,Landmarks,Breakfast & Brunch,5
+21,Dining,Breakfast & Brunch,5
+20,Dining,American (Traditional),5
+0,Entertainment,Supernatural Readings,5
+80,Landmarks,Coffee & Tea,4
+22,Dining,Food Trucks,4
+1,Entertainment,Performing Arts,4
+52,Health,Chiropractors,3
+83,Landmarks,American (Traditional),3
+82,Landmarks,Food Trucks,3
+81,Landmarks,Sandwiches,3
+53,Health,Reiki,3
+24,Dining,Sandwiches,3
+23,Dining,Coffee & Tea,3
+2,Entertainment,Wineries,3
+86,Landmarks,Pubs,2
+89,Landmarks,Beer Bar,2
+56,Health,Hypnosis/Hypnotherapy,2
+54,Health,Weight Loss Centers,2
+85,Landmarks,Cocktail Bars,2
+57,Health,Doulas,2
+58,Health,Skin Care,2
+88,Landmarks,"Beer, Wine & Spirits",2
+87,Landmarks,Desserts,2
+84,Landmarks,American (New),2
+59,Health,Medical Spas,2
+55,Health,Acupuncture,2
+27,Dining,Pubs,2
+26,Dining,"Beer, Wine & Spirits",2
+25,Dining,American (New),2
+3,Entertainment,Life Coach,2
+4,Entertainment,Psychics,2
+5,Entertainment,Museums,2
+9,Entertainment,Massage Therapy,1
+6,Entertainment,Farms,1
+7,Entertainment,Dance Studios,1
+8,Entertainment,Magicians,1
+29,Dining,Sushi Bars,1
+72,Health,Counseling & Mental Health,1
+11,Entertainment,Musicians,1
+12,Entertainment,Nurseries & Gardening,1
+13,Entertainment,Opera & Ballet,1
+78,Health,Life Coach,1
+77,Health,Adult Education,1
+76,Health,Alternative Medicine,1
+75,Health,Cannabis Clinics,1
+74,Health,Cannabis Dispensaries,1
+10,Entertainment,Balloon Services,1
+90,Landmarks,Burgers,1
+91,Landmarks,Mexican,1
+92,Landmarks,Waffles,1
+109,Landmarks,Breweries,1
+108,Landmarks,Coffee Roasteries,1
+107,Landmarks,Cupcakes,1
+106,Landmarks,Custom Cakes,1
+105,Landmarks,Delis,1
+104,Landmarks,French,1
+103,Landmarks,Ice Cream & Frozen Yogurt,1
+102,Landmarks,Brewpubs,1
+101,Landmarks,Mediterranean,1
+100,Landmarks,Italian,1
+99,Landmarks,Noodles,1
+98,Landmarks,Pizza,1
+97,Landmarks,Bars,1
+96,Landmarks,Bakeries,1
+95,Landmarks,Tapas/Small Plates,1
+94,Landmarks,Thai,1
+93,Landmarks,Vietnamese,1
+73,Health,Childbirth Education,1
+70,Health,Lactation Services,1
+71,Health,Eyewear & Opticians,1
+39,Dining,Japanese,1
+46,Dining,Brewpubs,1
+45,Dining,Burgers,1
+44,Dining,Chinese,1
+43,Dining,Cocktail Bars,1
+42,Dining,Delis,1
+41,Dining,French,1
+40,Dining,Hot Dogs,1
+38,Dining,Mediterranean,1
+48,Dining,Bakeries,1
+37,Dining,Italian,1
+36,Dining,Noodles,1
+35,Dining,Waffles,1
+34,Dining,Vietnamese,1
+33,Dining,Thai,1
+32,Dining,Tapas/Small Plates,1
+31,Dining,Mexican,1
+47,Dining,Bars,1
+49,Dining,Wine Bars,1
+30,Dining,Speakeasies,1
+62,Health,Spiritual Shop,1
+69,Health,Laser Hair Removal,1
+68,Health,Acne Treatment,1
+67,Health,Undersea/Hyperbaric Medicine,1
+66,Health,Traditional Chinese Medicine,1
+65,Health,Tattoo Removal,1
+64,Health,Optometrists,1
+63,Health,Permanent Makeup,1
+61,Health,Placenta Encapsulations,1
+28,Dining,Pizza,1
+60,Health,Naturopathic/Holistic,1
+14,Entertainment,DJs,1
+15,Entertainment,Psychic Mediums,1
+16,Entertainment,CSA,1
+17,Entertainment,Reiki,1
+18,Entertainment,Bars,1
+19,Entertainment,Arts & Entertainment,1
+110,Landmarks,Wine Bars,1

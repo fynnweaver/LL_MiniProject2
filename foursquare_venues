@@ -1,78 +1,78 @@
-,id,title,total
-12,13065,Restaurant,14
-53,15019,Mental Health Clinic,10
-13,13068,American Restaurant,6
-54,15006,Chiropractor,5
-55,15018,Mental Health Service,5
-15,13002,Bakery,5
-14,13031,Burger Joint,5
-0,10000,Arts and Entertainment,4
-56,15003,Alternative Medicine Clinic,4
-57,15014,Hospital,4
-17,13016,Lounge,4
-16,13035,Coffee Shop,4
-22,13145,Fast Food Restaurant,3
-61,15001,Acupuncture Clinic,3
-24,13009,Cocktail Bar,3
-20,13303,Mexican Restaurant,3
-60,15054,Veterinarian,3
-59,15016,Medical Center,3
-58,15007,Dentist,3
-21,13034,Café,3
-23,13387,Winery,3
-19,13046,Ice Cream Parlor,3
-18,13026,BBQ Joint,3
-72,16032,Park,3
-71,16026,Monument,3
-25,13029,Brewery,2
-26,13383,Steakhouse,2
-27,13006,Beer Bar,2
-28,13003,Bar,2
-1,10039,Music Venue,2
-63,15000,Health and Medicine,2
-62,15031,Doctor's Office,2
-75,16020,Historic and Protected Site,1
-74,16014,Farm,1
-51,13007,Beer Garden,1
-73,16006,Bridge,1
-50,13010,Dive Bar,1
-52,17060,Candy Store,1
-68,15041,Ophthalmologist,1
-70,17037,Eyecare Store,1
-69,15017,Medical Lab,1
-67,15022,Nursing Home,1
-64,15024,Optometrist,1
-65,15026,Physical Therapy Clinic,1
-66,15027,Physician,1
-48,13018,Pub,1
-49,13012,Hookah Bar,1
-38,10032,Night Club,1
-47,13022,Sports Bar,1
-31,13099,Chinese Restaurant,1
-2,10003,Arcade,1
-3,10004,Art Gallery,1
-4,10028,Art Museum,1
-5,10030,History Museum,1
-6,10032,Night Club,1
-7,10043,Theater,1
-8,10051,Stadium,1
-9,10053,Ticket Seller,1
-10,13010,Dive Bar,1
-11,13065,Restaurant,1
-29,13352,Thai Restaurant,1
-30,13334,Sandwich Restaurant,1
-32,13379,Vietnamese Restaurant,1
-46,13024,Whisky Bar,1
-33,13315,Noodle Restaurant,1
-34,13302,Mediterranean Restaurant,1
-35,13236,Italian Restaurant,1
-36,14013,Street Food Gathering,1
-37,13148,French Restaurant,1
-39,13040,Dessert Shop,1
-40,13072,Asian Restaurant,1
-41,13064,Pizzeria,1
-42,13044,Frozen Yogurt Shop,1
-43,13000,Dining and Drinking,1
-44,13039,Deli,1
-45,13036,Tea Room,1
-76,16037,Playground,1
+,Category,id,title,total
+12,Dining,13065,Restaurant,14
+53,Health,15019,Mental Health Clinic,10
+13,Dining,13068,American Restaurant,6
+54,Health,15006,Chiropractor,5
+55,Health,15018,Mental Health Service,5
+15,Dining,13002,Bakery,5
+14,Dining,13031,Burger Joint,5
+0,Entertainment,10000,Arts and Entertainment,4
+56,Health,15003,Alternative Medicine Clinic,4
+57,Health,15014,Hospital,4
+17,Dining,13016,Lounge,4
+16,Dining,13035,Coffee Shop,4
+22,Dining,13145,Fast Food Restaurant,3
+61,Health,15001,Acupuncture Clinic,3
+24,Dining,13009,Cocktail Bar,3
+20,Dining,13303,Mexican Restaurant,3
+60,Health,15054,Veterinarian,3
+59,Health,15016,Medical Center,3
+58,Health,15007,Dentist,3
+21,Dining,13034,Café,3
+23,Dining,13387,Winery,3
+19,Dining,13046,Ice Cream Parlor,3
+18,Dining,13026,BBQ Joint,3
+72,Landmarks,16032,Park,3
+71,Landmarks,16026,Monument,3
+25,Dining,13029,Brewery,2
+26,Dining,13383,Steakhouse,2
+27,Dining,13006,Beer Bar,2
+28,Dining,13003,Bar,2
+1,Entertainment,10039,Music Venue,2
+63,Health,15000,Health and Medicine,2
+62,Health,15031,Doctor's Office,2
+75,Landmarks,16020,Historic and Protected Site,1
+74,Landmarks,16014,Farm,1
+51,Dining,13007,Beer Garden,1
+73,Landmarks,16006,Bridge,1
+50,Dining,13010,Dive Bar,1
+52,Dining,17060,Candy Store,1
+68,Health,15041,Ophthalmologist,1
+70,Health,17037,Eyecare Store,1
+69,Health,15017,Medical Lab,1
+67,Health,15022,Nursing Home,1
+64,Health,15024,Optometrist,1
+65,Health,15026,Physical Therapy Clinic,1
+66,Health,15027,Physician,1
+48,Dining,13018,Pub,1
+49,Dining,13012,Hookah Bar,1
+38,Dining,10032,Night Club,1
+47,Dining,13022,Sports Bar,1
+31,Dining,13099,Chinese Restaurant,1
+2,Entertainment,10003,Arcade,1
+3,Entertainment,10004,Art Gallery,1
+4,Entertainment,10028,Art Museum,1
+5,Entertainment,10030,History Museum,1
+6,Entertainment,10032,Night Club,1
+7,Entertainment,10043,Theater,1
+8,Entertainment,10051,Stadium,1
+9,Entertainment,10053,Ticket Seller,1
+10,Entertainment,13010,Dive Bar,1
+11,Entertainment,13065,Restaurant,1
+29,Dining,13352,Thai Restaurant,1
+30,Dining,13334,Sandwich Restaurant,1
+32,Dining,13379,Vietnamese Restaurant,1
+46,Dining,13024,Whisky Bar,1
+33,Dining,13315,Noodle Restaurant,1
+34,Dining,13302,Mediterranean Restaurant,1
+35,Dining,13236,Italian Restaurant,1
+36,Dining,14013,Street Food Gathering,1
+37,Dining,13148,French Restaurant,1
+39,Dining,13040,Dessert Shop,1
+40,Dining,13072,Asian Restaurant,1
+41,Dining,13064,Pizzeria,1
+42,Dining,13044,Frozen Yogurt Shop,1
+43,Dining,13000,Dining and Drinking,1
+44,Dining,13039,Deli,1
+45,Dining,13036,Tea Room,1
+76,Landmarks,16037,Playground,1
